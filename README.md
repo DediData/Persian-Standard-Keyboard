@@ -1,11 +1,10 @@
 # Persian Standard Keyboard
-کیبورد فارسی و صفحه کلید فارسی استاندارد
-
+Standard Persian Keyboard Layout for Windows
 ![صفحه کلید فارسی استاندارد](https://raw.githubusercontent.com/ParsMizban/Persian-Standard-Keyboard/master/nornal.jpg "صفحه کلید فارسی استاندارد")
 
 ![صفحه کلید فارسی استاندارد](https://raw.githubusercontent.com/ParsMizban/Persian-Standard-Keyboard/master/shift.jpg "صفحه کلید فارسی استاندارد")
 
-صفحه کلید فارسی و استاندارد پارس میزبان برای ویندوز
+صفحه کلید فارسی و استاندارد برای ویندوز
 - مناسب برای هرگونه عادت تایپی
 - استفاده از اعداد فارسی در قسمت اعداد
 - استفاده از ی و ک فارسی و نه عربی!
